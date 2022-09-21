@@ -1,5 +1,19 @@
-body {
-    color: #333;
-    background-color: #ffffff;
-    font-family: 'Combo', cursive;
+body{
+    font-family: cursive;
+    background-color: white;
+
+}
+
+
+body{
+    max-width: 65ch;
+    margin: auto;
+    font-family: sans-serif;
+}
+header{
+    text-align: center;
+}
+h1{
+    font-family: serif;
+
 }
