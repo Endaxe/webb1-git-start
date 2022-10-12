@@ -5,8 +5,8 @@
 }
 
 img {
-max-width: 100;
-height: auto;
+    max-width: 100%;
+    height: auto;
 
 }
 
@@ -18,7 +18,7 @@ nav {
 }
 
 nav > ul {
-    list-style: name;
+    list-style:none;
     display: flex;
     gap: 1rem;
     padding: 0;
